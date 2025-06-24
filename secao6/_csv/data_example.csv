@@ -1,0 +1,6 @@
+nome          , idade, sexo, telefone       , endereço
+Mariana Silva ,    28, F   , (11) 91234-5678, "Rua das Flores, 123 - São Paulo/SP"
+João Pereira  ,    35, M   , (21) 99876-5432, "Avenida Brasil, 456 - Rio de Janeiro/RJ"
+Carlos Eduardo,    42, M   , (31) 98765-4321, "Rua Minas Gerais, 789 - Belo Horizonte/MG"
+Ana Beatriz   ,    30, F   , (41) 93456-7890, "Rua Paraná, 321 - Curitiba/PR"
+Luciana Costa ,    25, F   , (51) 97654-3210, "Rua da Praia, 654 - Porto Alegre/RS"
