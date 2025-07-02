@@ -8,7 +8,7 @@ def password(
         upper_letters: bool = True,
         punctuation: bool = True 
         ) -> str:
-   
+    
     sec = secrets.SystemRandom()
    
     all_symbols = '' 
@@ -37,6 +37,6 @@ def password(
 def check(password_lenght, digits, lower_letters, upper_letters, punctuation):
         if not isinstance(digits, bool) or not isinstance(lower_letters, bool) or not \
         isinstance(upper_letters, bool) or not isinstance(punctuation, bool):
-            raise Exception
+            raise Exception("You must to write a bool")
         if not digits and not lower_letters and not upper_letters and not punctuation:
-             raise Exception 
+             raise Exception("You cannot let every optinion to be false") 
