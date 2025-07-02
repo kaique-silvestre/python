@@ -18,4 +18,4 @@ print(html.select_one("#intro > div > div > article > h2"))
 
 # Selecionando elemento "acima" com atributo .parent 
 ## Nesse caso selecionando o article que estava acima do H2 
-print(html.select_one("#intro > div > div > article > h2").parent)
+print(html.select_one("#intro > div > div > article > h2"))
