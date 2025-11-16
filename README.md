@@ -1,0 +1,1 @@
+This repository stores all the code related to my Python studies, mainly exercises and practice developed through courses. It also includes small projects inside each folder, all connected to the topics or courses I’m studying. The repository contains the Python course from “Curso em Vídeo” (all three modules I completed) and the complete Python course by Otávio Miranda on Udemy.
