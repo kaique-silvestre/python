@@ -1,0 +1,5 @@
+print('Olá, boas-vindas. digíte seus dados de cadastro da forma correta.')
+ano = input('Qual é seu ano de nascimento ? : ')
+mes = input('Em qual mês você nasceu ? : ')
+dia = input('Qual foi o dia do seu nascimento? : ')
+print('Você nasceu em',dia,'/',mes,'/',ano)

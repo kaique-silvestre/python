@@ -1,0 +1,2 @@
+Primeiro texto escrita dentro da manipulação de arquivo
+Escrevendo a segunda linha com o arquivo aberto no modo de adição de texto ao final

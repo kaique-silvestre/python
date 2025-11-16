@@ -1,0 +1,2 @@
+w+ permite ler e escrever um arquivo dentro do mesmo gerenciador de contexto
+Porém sem retornar o cursor para o ponto inicial do arquivo, ele não cosiguirá ler no mesmo context que a escrita
